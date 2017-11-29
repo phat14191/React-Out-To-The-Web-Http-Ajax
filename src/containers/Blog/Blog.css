@@ -11,12 +11,13 @@
     margin: 20px;
 }
 
-.Blogs a {
+.Blog a {
     text-decoration: none;
     color: black;
 }
 
 .Blog a:hover,
-.Blog a:active {
+.Blog a:active,
+.Blog a.active {
     color: #fa923a;
 }
